@@ -9,7 +9,9 @@ This is no way a turtorial on how to serialize objects in Ruby but rather notes 
 Thanks for checking it out, have fun! 
 
 ## Instructions
-1. Copy this repo onto your local machine. Open your terminal and navigate to the directory where you want to clone the repo to. 
+1. Copy this repo onto your local machine. 
+
+Open your terminal and navigate to the directory where you want to clone the repo to.
 In your terminal type. . .
 ```
 $ git clone https://github.com/BShowen/serialization.git
@@ -26,11 +28,15 @@ $ load "serialization.rb"
 irb(main):002:0>
 ```
 
-3. Create a new object to be serialized. This is a basic program with one class. Its a Person class that accepts your name as a string followed by your age and weight as Integers. 
+3. Create a new object to be serialized. 
+
+This is a basic program with one class. Its a Person class that accepts your name as a string followed by your age and weight as Integers. 
 ```
 $ new_person = "Bradley", 26, 155
 ```
-4. Serialize the object. We can use YAML or JSON. You can choose to do one or both. I will demonstrate using both methods. 
+4. Serialize the object. 
+
+We can use YAML or JSON. You can choose to do one or both. I will demonstrate using both methods. 
 ```
 $ new_person.save_to_HDD_yaml #this saves the object to your hard drive in your current working directry in YAML format
 $ new_person.save_to_HDD_json #this saves the object to your hard drive in your current working directry in JSON format
@@ -38,6 +44,8 @@ $ new_person.save_to_HDD_json #this saves the object to your hard drive in your 
 After this is done I like to exit out of the terminal completely and then perform step 2 once again. Or you can simply continue on. 
 
 5. Instantiate a new object from the YAML and/or JSON files on your computer. 
+
+In your terminal type. . .
 ```
 brand_new_person = Person.create_from_json
 brand_new_person = Person.create_from_yaml
