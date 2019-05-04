@@ -1,6 +1,6 @@
 # Serialization
 
-I am teaching myself about Serialization within Ruby and I created a simple program to demonstrate my knowledge so far. Please feel free to reccomend any changes or let me know if I have something wrong. 
+I am teaching myself about Serialization within Ruby and I have created a simple program to demonstrate my knowledge. Please feel free to reccomend any changes or let me know if I have something wrong. 
 
 
 In the instructions below only type the commands preceded by a $ \n
