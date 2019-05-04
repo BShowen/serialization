@@ -2,18 +2,21 @@
 
 I am teaching myself about Serialization within Ruby and I created a simple program to demonstrate my knowledge so far. Please feel free to reccomend any changes or let me know if I have something wrong. 
 
-## Instructions
-In the instructions below only type the commans preceded by a $ 
-This is no way a turtorial on how to serialize objects in Ruby but rather notes for myself on how to do so and also a book mark in time for me to come back and see how far ive come. 
+
+In the instructions below only type the commands preceded by a $ \n
+This is no way a turtorial on how to serialize objects in Ruby but rather notes for myself on how to do so and also a bookmark in time for me to come back and see how far ive come. 
 
 Thanks for checking it out, have fun! 
 
-1. Copy this repo onto your local machine. Open your terminal and navigate to the directory where you want to clone the repo to. In your terminal type. . .
+## Instructions
+1. Copy this repo onto your local machine. Open your terminal and navigate to the directory where you want to clone the repo to. 
+In your terminal type. . .
 ```
 $ git clone https://github.com/BShowen/serialization.git
 ```
 
-2. Now run IRB and load 'serialization.rb'. In your terminal type. . .
+2. Now run IRB and load 'serialization.rb'. 
+In your terminal type. . .
 ```
 $ irb 
 irb(main):001:0>
