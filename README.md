@@ -16,6 +16,7 @@ $ git clone https://github.com/BShowen/serialization.git
 ```
 
 2. Now run IRB and load 'serialization.rb'. 
+
 In your terminal type. . .
 ```
 $ irb 
