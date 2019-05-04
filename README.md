@@ -51,4 +51,4 @@ brand_new_person = Person.create_from_json
 brand_new_person = Person.create_from_yaml
 ```
 
-#### And there you have it! Youve just created and object, serialized it into YAML or JSON. Saved it to your computer. Then loaded up the object right where you left off. 
+## And there you have it! Youve just created and object, serialized it into YAML or JSON, saved it to your computer, then loaded up the object right where you left off! 
