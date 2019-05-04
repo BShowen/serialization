@@ -9,7 +9,7 @@ This is no way a turtorial on how to serialize objects in Ruby but rather notes 
 Thanks for checking it out, have fun! 
 
 ## Instructions
-1. Copy this repo onto your local machine. 
+1. ###Copy this repo onto your local machine. 
 
 Open your terminal and navigate to the directory where you want to clone the repo to.
 In your terminal type. . .
